@@ -1,8 +1,5 @@
 def hello():
-    """
-    this is demo
-    """
+    """Return a demo greeting message."""  # ← Proper function docstring
     return "hello dosto"
-
 
 hello()
