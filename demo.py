@@ -1,6 +1,7 @@
-def hello():
-     """Return a demo greeting message."""  # ← Proper function docstring
-    return "hello dosto"
+"""Demo module for hello function."""
 
+def hello():
+    """Return a demo greeting message."""
+    return "hello dosto"
 
 hello()
