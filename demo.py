@@ -1,7 +1,7 @@
-def my_funtion():
+"""Demo module for hello function."""
 
-    a = 5
-    return a
+def hello():
+    """Return a demo greeting message."""
+    return "hello dosto"
 
-
-my_funtion()
+hello()
